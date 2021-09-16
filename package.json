@@ -4,11 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./app/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagus237/sesi16-pg.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagus237/sesi16-pg/issues"
+  },
+  "homepage": "https://github.com/bagus237/sesi16-pg#readme",
   "devDependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
